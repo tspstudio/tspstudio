@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Yo+i+like+this+default+pfp)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I+have+no+idea+what+i'm+doing)](https://git.io/typing-svg)
 
 ## Trying to learn some rust programming(almost failed)
 
